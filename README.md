@@ -1,8 +1,10 @@
 <h1 align="center">Hi, I am Nur. 👋</h1>
 
 <br />
-- 🔭 I’m currently working on Java, JavaScript
-- 🌱 I’m currently learning Frontend and Backend Web Development
+
+- 🔭 I’m currently working on **Java, JavaScript**
+- 🌱 I’m currently learning **Frontend and Backend Web Development**  
+
 <br />
 
 <h3 align="left">Languages and Tools:</h3>
