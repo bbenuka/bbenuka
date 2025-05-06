@@ -11,8 +11,6 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<img align="left"  alt="java" width="40px" src="![image](https://github.com/user-attachments/assets/da7744e1-ca52-495d-a4f2-b015af09c451)" />
-
 <img align="left" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/python/python.png" />
 
 <img align="left" alt="csharp" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"  />
