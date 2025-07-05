@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I am Nur. 👋</h1>
+<h1 align="center">Hi, I am Behiye Nur. 👋</h1>
 
 <h3> I am here to improve in coding and share the codes I have written. </h3>
 
